@@ -6,7 +6,7 @@ gsap.to(".name", {
   duration: 1,
   delay: 11,
   text: {
-    value: "Yesa Awalia",
+    value: "Fauziyah Alifatun Nisa",
   },
 });
 
@@ -22,7 +22,7 @@ gsap.to(".age", {
   duration: 1,
   delay: 9,
   text: {
-    value: "18th",
+    value: "17th",
   },
 });
 
